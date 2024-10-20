@@ -1,8 +1,8 @@
 # Hack-House
 
-# ![Learn to Hack](https://nimbletech.co.in/tech-admin/cms/uploads/course/20180920214958ethical-hacking.jpg)
+# ![Learn to Hack](https://www.hackerschool.in/wp-content/uploads/2021/05/Cyber-Security-Banner.jpg)
 
-## Free Learn to Hack Resources
+## Free resources to learn hacking
 
 [Tryhackme](https://tryhackme.com/)
 
@@ -22,3 +22,7 @@
 
 [Juice Shop ](https://github.com/juice-shop/juice-shop)
 
+[Hacksplaining](https://www.hacksplaining.com/) 
+
+[Introduction to Cybersecurity
+](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US)
