@@ -1,6 +1,6 @@
 # Hack-House
 
-# ![Learn to Hack](https://nimbletech.co.in/tech-admin/cms/uploads/course/20180920214958ethical-hacking.jpg]
+# ![Learn to Hack](https://nimbletech.co.in/tech-admin/cms/uploads/course/20180920214958ethical-hacking.jpg)
 
 ## Free Learn to Hack Resources
 
