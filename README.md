@@ -2,7 +2,7 @@
 
 # ![Learn to Hack](https://www.hackerschool.in/wp-content/uploads/2021/05/Cyber-Security-Banner.jpg)
 
-## Free resources to learn hacking
+## Learn hacking
 
 [Tryhackme](https://tryhackme.com/)
 
@@ -26,3 +26,13 @@
 
 [Introduction to Cybersecurity
 ](https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US)
+
+## Resources for LLM hacking
+
+[lakera](https://gandalf.lakera.ai/)
+
+[Kontra LLM](https://application.security/free/llm)
+
+[Portswigger](https://portswigger.net/web-security)
+
+
