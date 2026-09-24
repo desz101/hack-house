@@ -35,5 +35,5 @@
 
 [Portswigger](https://portswigger.net/web-security)
 
-[TryHackMe LLM](https://tryhackme.com/))
+[TryHackMe LLM](https://tryhackme.com/)
 
